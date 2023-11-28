@@ -3,7 +3,7 @@
 ## Background Information
 In this project, a food hygiene rating is performed by analysing MongoDB. The project is conducted to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
-![image](https://www.waterproofmenu.com/extensions/com.umbrella.blog/files/posts/food-critic-.jpg))
+![image](https://www.waterproofmenu.com/extensions/com.umbrella.blog/files/posts/food-critic-.jpg)
 
 ## Project Content
 - A Resource folder containing one json file;
